@@ -4,7 +4,7 @@ A weather app that show the weather in current city, working with API key and va
 
 ## The problem
 
-Mainly to understand the fetch function, and how all is contected
+i had a lot of problem understanding how all is connected. I google a lot and asked ChatGPT to explain to me.
 
 ## View it live
 
