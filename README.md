@@ -8,4 +8,4 @@ I had a lot of problem understanding how all is connected. I google a lot and as
 
 ## View it live
 
-https://weather-project-evelyndelcarmen.netlify.app/
+https://hamdi-evelyn-weatherapp.netlify.app/
